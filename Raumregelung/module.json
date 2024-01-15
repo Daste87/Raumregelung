@@ -1,0 +1,15 @@
+{
+    "id": "{E87CC673-99A7-876D-4CB3-EEF9904A4ED1}",
+    "name": "Raumregelung",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Raumregelung"
+    ],
+    "url": "https://www.stegmann-smarthome.de",
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "RR"
+}

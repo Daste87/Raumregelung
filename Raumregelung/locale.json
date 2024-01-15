@@ -1,0 +1,11 @@
+{
+    "translations": {
+        "de": { 
+            "Is temperature":"Ist-Temperatur",
+            "Should temperature":"Soll-Temperatur",
+            "Reduction":"Absenkung",
+            "Heatingplan":"Heizplan",
+            "Heatingphase":"Heizphase"
+        }
+    }
+}

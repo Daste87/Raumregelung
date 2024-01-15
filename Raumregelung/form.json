@@ -1,0 +1,36 @@
+{
+    "elements":
+    [
+        {
+            "type": "SelectVariable",
+            "name": "Temperatur-ID",
+            "value": "",
+            "caption": "Quelle (Ist-Temperatur)"
+        },
+        {
+            "type": "SelectVariable",
+            "name": "Aktor-ID",
+            "value": "",
+            "caption": "Ziel (Aktor)"
+
+        },
+                {
+            "type": "Select",
+            "name": "DeviceType",
+            "caption": "Typ",
+            "options": [
+            { "caption": "Zweipunktregler", "value": "0" },
+            { "caption": "Selbstregelnd", "value": "1" }
+                        ]
+        }
+        
+
+    ],
+    "actions":
+    [
+    ],
+    "status":
+    [
+
+    ]
+}
