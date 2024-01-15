@@ -1,0 +1,12 @@
+{
+    "id": "{F24EA1A8-E909-4B17-93FF-E2384875A0BD}",
+    "name": "Heizungssteuerung",
+    "author": "Daniel Stegmann",
+    "url": "https://www.stegmann-smarthome.de",
+    "compatibility": {
+        "version": "7.0"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}
